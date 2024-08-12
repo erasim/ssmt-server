@@ -1,0 +1,37 @@
+.footer-main{ background-color: #1D3557;
+
+}
+
+.container1{
+    padding: 5%;
+width: 100%;}
+
+.footer-header{
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffff;
+
+}
+
+.container{border: 2px solid red; padding: 0px; width: 100%;}
+.container1 ul li{
+    font-size: 14px;
+    font-weight: 400;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    color: #ffff;
+}
+.footer-line{
+    
+    width: 200px;
+    border-top: 2px solid rgb(231, 228, 228);
+    margin: auto;
+    margin-bottom: auto;
+
+}
+
+.footer-mark{color: antiquewhite;
+font-size: 14px;
+font-weight: 600;
+margin-top: 20px;}
