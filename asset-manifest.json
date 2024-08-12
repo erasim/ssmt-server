@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ssmt-solutions/static/css/main.70259907.css",
+    "main.js": "/ssmt-solutions/static/js/main.3f6c8df6.js",
+    "static/js/453.8ab44547.chunk.js": "/ssmt-solutions/static/js/453.8ab44547.chunk.js",
+    "static/media/home-pic.jpg": "/ssmt-solutions/static/media/home-pic.c9135200dee849369a6a.jpg",
+    "static/media/logo.svg": "/ssmt-solutions/static/media/logo.18b3be0214a1e49168db3a6039c2c325.svg",
+    "index.html": "/ssmt-solutions/index.html",
+    "main.70259907.css.map": "/ssmt-solutions/static/css/main.70259907.css.map",
+    "main.3f6c8df6.js.map": "/ssmt-solutions/static/js/main.3f6c8df6.js.map",
+    "453.8ab44547.chunk.js.map": "/ssmt-solutions/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70259907.css",
+    "static/js/main.3f6c8df6.js"
+  ]
+}
